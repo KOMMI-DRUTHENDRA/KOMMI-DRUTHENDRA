@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+👋I'm Druthendra, a developer passionate about building innovative projects and exploring new technologies. I enjoy solving problems and creating dynamic sol.
 <!--
 **KOMMI-DRUTHENDRA/KOMMI-DRUTHENDRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
